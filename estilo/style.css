@@ -426,7 +426,7 @@ footer .last {
     }
 
     section .filter-card {
-        width: 390px;
+        width: 350px;
         padding: 0px 10px;
     }
 
@@ -472,7 +472,8 @@ footer .last {
         height: 100%;
     }
 
-    .feature-card-block {
+    .features-card-block {
+        max-width: 550px;
         height: 100%;
         display: flex;
         flex-direction: column;
