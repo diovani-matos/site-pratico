@@ -404,6 +404,14 @@ footer .last {
     justify-content: center;
 }
 
+.last p a {
+    color: var(--cor3);
+}
+
+.last p a:hover {
+    text-decoration: underline;
+}
+
 
 /* responsividade */
 
